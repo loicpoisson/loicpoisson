@@ -12,7 +12,10 @@ I work where hardware meets machine learning: robot control, autonomy, and ML fo
 - **Decision making under uncertainty** (Stanford AA 228): [repo](https://github.com/loicpoisson/AA228_Projects)
 
 ## Experience
-SLAC National Accelerator Laboratory (research assistant) · Safran Helicopter Engines (generative AI intern) · SNCF Voyageurs (high-speed train testing) · Renault Technocentre (Alpine A390 prototype manufacturing)
+· SLAC National Accelerator Laboratory (research assistant)
+· Safran Helicopter Engines (generative AI intern)
+· SNCF Voyageurs (high-speed train testing)
+· Renault Technocentre (Alpine A390 prototype manufacturing)
 
 ## Tools
 Python · PyTorch · PyTorch Geometric · ROS 2 · reinforcement learning · MATLAB · C++ (basics) · Slurm/GPU · Linux · CATIA / 3DEXPERIENCE · SolidWorks · Abaqus
